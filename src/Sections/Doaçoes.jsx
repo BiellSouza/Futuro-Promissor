@@ -1,4 +1,4 @@
-import LabTabs from "../components/AccordionComponent";
+import LabTabs from "../components/TabComponent"
 
 export default function Doações() {
   return(

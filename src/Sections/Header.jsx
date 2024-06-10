@@ -7,8 +7,8 @@ import {
   FaMapMarkerAlt,
   FaEnvelope,
 } from "react-icons/fa";
-import Logo from "../assets/LogoTracking.png"
-import Time from "../assets/grupo.jpg"
+import Logo from "../assets/LogoTracking.png";
+import Time from "../assets/grupo.jpg";
 
 export default function Header() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
